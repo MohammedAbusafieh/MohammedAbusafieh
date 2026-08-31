@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Mohammed Khalid
 
-### Cybersecurity • Networking • Penetration Testing
+### Cybersecurity • Network Security • Penetration Testing
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=7C5CFC&center=true&vCenter=true&width=800&lines=Cybersecurity+Graduate;Penetration+Testing;Malware+Analysis;Network+Security;Python+Security+Tools;Always+Learning"/>
 
