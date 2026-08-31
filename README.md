@@ -254,25 +254,6 @@ https://github.com/MohammedAbusafieh/Enterprise-Wireless-Network-Security
 </p>
 
 ---
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammedAbusafieh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbusafieh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MohammedAbusafieh&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -283,22 +264,20 @@ https://github.com/MohammedAbusafieh/Enterprise-Wireless-Network-Security
 
 ---
 
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions to generate the snake animation.
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/MohammedAbusafieh/MohammedAbusafieh/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/MohammedAbusafieh/MohammedAbusafieh/output/github-contribution-grid-snake.svg"/>
-
-<img alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/MohammedAbusafieh/MohammedAbusafieh/output/github-contribution-grid-snake.svg"/>
-
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MohammedAbusafieh/MohammedAbusafieh/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MohammedAbusafieh/MohammedAbusafieh/output/github-contribution-grid-snake.svg">
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/MohammedAbusafieh/MohammedAbusafieh/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
