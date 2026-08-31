@@ -254,11 +254,19 @@ https://github.com/MohammedAbusafieh/Enterprise-Wireless-Network-Security
 </p>
 
 ---
-# 📈 Contribution Graph
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAbusafieh&theme=tokyo-night&hide_border=true&radius=16&area=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammedAbusafieh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbusafieh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MohammedAbusafieh&theme=tokyonight&hide_border=true"/>
 
 </div>
 
