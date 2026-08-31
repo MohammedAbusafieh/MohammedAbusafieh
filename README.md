@@ -258,9 +258,6 @@ https://github.com/MohammedAbusafieh/Enterprise-Wireless-Network-Security
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAbusafieh&theme=tokyo-night&hide_border=true"/>
-<div align="center">
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAbusafieh&theme=tokyo-night&hide_border=true&radius=16&area=true"/>
 
 </div>
