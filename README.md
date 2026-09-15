@@ -31,7 +31,9 @@
 
 # 💻 About Me
 
-Networking & Cybersecurity graduate with hands-on experience in penetration testing, vulnerability assessment, malware analysis, and enterprise network security.
+Networking & Cybersecurity graduate with hands-on experience in penetration testing, vulnerability assessment, malware analysis, and network security.
+I enjoy building practical cybersecurity tools, conducting penetration tests, analyzing vulnerabilities and threats, and automating security workflows with Python. My projects include MalwareX, a malware analysis and threat detection platform, and NetGuard Pro, a network security scanner and risk assessment tool.
+My experience also includes web application security, network reconnaissance, incident response, SIEM/log analysis, and enterprise network security. I work with tools such as Kali Linux, Nmap, Metasploit, Burp Suite, Wireshark, Splunk, and Cisco technologies.
 
 ### 🎯 Open To
 
