@@ -31,9 +31,7 @@
 
 # 💻 About Me
 
-Cybersecurity graduate with hands-on experience in offensive security, malware analysis, vulnerability assessment, and enterprise network security.
-
-I enjoy building practical cybersecurity tools, conducting penetration tests, automating security workflows with Python, and continuously learning modern attack and defense techniques.
+Networking & Cybersecurity graduate with hands-on experience in penetration testing, vulnerability assessment, malware analysis, and enterprise network security.
 
 ### 🎯 Open To
 
