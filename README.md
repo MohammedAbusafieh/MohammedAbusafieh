@@ -1,315 +1,254 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:4F46E5,100:312E81&text=Mohammed%20Khalid%20Abusafieh&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img src="assets/hero.svg" width="100%" alt="Mohammed Khalid Abusafieh — Networking and Cybersecurity"/>
 
-# 👋 Hi, I'm Mohammed Khalid
+<br/>
 
-### Cybersecurity • Network Security • Penetration Testing
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=7C5CFC&center=true&vCenter=true&width=800&lines=Cybersecurity+%26+Networking;Penetration+Testing;Network+Security;Malware+Analysis"/>
-
-<p>
-
-<a href="https://github.com/MohammedAbusafieh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/mohammed-khalid-jamal-06243b284">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mohammed.abusafieh2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://mohammedkhalidportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-7C5CFC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
+<a href="https://mohammedkhalidportfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-701A3D?style=for-the-badge&logo=firefox&logoColor=F8F0F3" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mohammed-khalid-abusafieh-06243b284/"><img src="https://img.shields.io/badge/LINKEDIN-451126?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn"/></a>
+<a href="https://github.com/MohammedAbusafieh"><img src="https://img.shields.io/badge/GITHUB-190B12?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub"/></a>
 
 </div>
 
 ---
 
-# 💻 About Me
+<img src="assets/about-heading.svg" width="100%" alt="01 — About"/>
 
-Networking & Cybersecurity graduate with hands-on experience in penetration testing, vulnerability assessment, malware analysis, and network security.
-I enjoy building practical cybersecurity tools, conducting penetration tests, analyzing vulnerabilities and threats, and automating security workflows with Python. My projects include MalwareX, a malware analysis and threat detection platform, and NetGuard Pro, a network security scanner and risk assessment tool.
-My experience also includes web application security, network reconnaissance, incident response, SIEM/log analysis, and enterprise network security. I work with tools such as Kali Linux, Nmap, Metasploit, Burp Suite, Wireshark, Splunk, and Cisco technologies.
+<div align="center">
 
-### 🎯 Open To
+```text
+┌─ MOHAMMED@GITHUB ───────────────────────────────────────────────┐
+│  ROLE       IT STUDENT • NETWORKING & SECURITY                  │
+│  UNIVERSITY AJMAN UNIVERSITY                                    │
+│  GRADUATION FEBRUARY 2027 (EXPECTED)                            │
+│  FOCUS      CYBERSECURITY • NETWORKS • IT INFRASTRUCTURE        │
+│  LOCATION   UNITED ARAB EMIRATES                                │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-- Security Engineer
-- SOC Analyst
-- Penetration Tester
-- Network security
+</div>
 
+I'm **Mohammed Khalid Abusafieh**, an Information Technology student specializing in **Networking and Security** at Ajman University. I build hands-on projects to strengthen my skills in cybersecurity, network assessment, malware analysis, and secure infrastructure.
 
----
+My approach is practical: understand the system, test it in an authorized lab, document the findings, and improve its security.
 
-# ⚡ Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
-
-</p>
-
-### Cybersecurity & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,aws,git,github,vscode"/>
-
-</p>
-
-### Security Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Burp_Suite-F47C20?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Metasploit-2A5CAA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
-
-<img src="https://img.shields.io/badge/YARA-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge"/>
-
-</p>
+**Currently focused on:** defensive security, penetration-testing fundamentals, Python automation, and enterprise networking.
 
 ---
 
-# 🚀 Featured Projects
+<img src="assets/projects-heading.svg" width="100%" alt="02 — Selected Work"/>
 
-| Project | Description | Tech |
-|:--|:--|:--|
-| 🦠 **MalwareX** | Malware Analysis & Threat Detection Platform | Python • Streamlit • YARA • VirusTotal |
-| 🌐 **NetGuard Pro** | Network Security Scanner & Risk Assessment Platform | Python • Nmap • SQLite |
-| 🌍 **DVWA PenTesting Lab** | OWASP Top 10 Web Application Security Assessment | Kali • Burp Suite • Nikto |
-| 🔐 **Network & System PenTesting Lab** | Enterprise Penetration Testing Lab | Kali • Metasploit • Hydra |
-| 📡 **Enterprise Wireless Security** | Secure Multi-Floor Enterprise Wireless Network | Cisco • WLC • RADIUS |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 01 / MalwareX
+**Malware Analysis & Threat Detection**
 
-# 🦠 MalwareX
+A Python-based platform for static file analysis, threat detection, and security reporting.
 
-> **Malware Analysis & Threat Detection Platform**
+- SHA-256 hashing and file inspection
+- PE analysis, strings, imports and entropy
+- YARA scanning and IOC extraction
+- VirusTotal reputation lookup
+- Risk scoring and scan reports
 
-Built to automate malware analysis using static analysis techniques and threat intelligence.
+`Python` `Streamlit` `YARA` `PEFile` `SQLite`
 
-### Key Features
+[↗ View repository](https://github.com/MohammedAbusafieh/MalwareX)
 
-- Static Malware Analysis
-- PE File Analysis
-- SHA-256 Hashing
-- IOC Extraction
-- YARA Scanning
-- VirusTotal Integration
-- Automated Risk Scoring
-- Interactive Dashboard
-- Security Reports
+</td>
+<td width="50%" valign="top">
 
-**Tech**
+### 02 / NetGuard Pro
+**Network Security Scanner**
 
-`Python` `Streamlit` `YARA` `PEFile` `VirusTotal API` `SQLite`
+A tool for discovering network devices, identifying exposed services, and assessing network risks.
 
-🔗 **Repository**
+- Host discovery and port scanning
+- Service enumeration
+- Risk classification
+- Network topology visualization
+- PDF reports and scan history
 
-https://github.com/MohammedAbusafieh/MalwareX
+`Python` `Nmap` `SQLite` `NetworkX` `ReportLab`
 
----
+[↗ View repository](https://github.com/MohammedAbusafieh/NetGuard-Pro)
 
-# 🌐 NetGuard Pro
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-> **Network Security Scanner & Risk Assessment Platform**
+### 03 / Website Security Scanner
+**Automated Website Security Checks**
 
-Designed to discover devices, identify exposed services, and assess network security risks.
+A Python tool for reviewing common website security signals.
 
-### Key Features
+- SSL configuration checks
+- HTTP security-header checks
+- Port scanning
+- Basic vulnerability checks
+- HTML report generation
 
-- Host Discovery
-- Multi-threaded Port Scanner
-- Service Enumeration
-- Network Topology
-- Risk Classification
-- PDF Report Generation
-- Historical Scan Tracking
+`Python` `Security Testing`
 
-**Tech**
+[↗ View repository](https://github.com/MohammedAbusafieh/Website-Security-Scanner)
 
-`Python` `Nmap` `SQLite` `ReportLab` `NetworkX` `CustomTkinter`
+</td>
+<td width="50%" valign="top">
 
-🔗 **Repository**
+### 04 / DVWA Web Application Testing
+**Web Application Penetration Testing Lab**
 
-https://github.com/MohammedAbusafieh/NetGuard-Pro
+A practical assessment of an intentionally vulnerable web application.
 
----
-
-# 🌍 Web Application Penetration Testing Lab (DVWA)
-
-> **OWASP Top 10 Web Application Security Assessment**
-
-Performed a complete web application penetration test against DVWA following industry-standard penetration testing methodology.
-
-### Key Findings
-
-- SQL Injection
-- Cross-Site Scripting (XSS)
-- Command Injection
-- Local File Inclusion (LFI)
-- File Upload Vulnerabilities
-- Weak Session Management
-- Authorization Bypass
-- Open Redirect
-
-### Tools
+- SQL Injection and XSS
+- Command Injection and LFI
+- File-upload weaknesses
+- Session and access-control testing
+- Findings and remediation documentation
 
 `Kali Linux` `DVWA` `Burp Suite` `Nikto` `Nmap`
 
-🔗 **Repository**
+[↗ View repository](https://github.com/MohammedAbusafieh/DVWA-PenTesting-Lab)
 
-https://github.com/MohammedAbusafieh/DVWA-PenTesting-Lab
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 05 / Network & System Penetration Testing Lab
+**Authorized Lab-Based Security Assessment**
 
-# 🔐 Network & System Penetration Testing Lab
+A structured workflow for testing intentionally vulnerable lab systems.
 
-> **Enterprise Penetration Testing Lab**
-
-Hands-on penetration testing against intentionally vulnerable virtual machines to simulate real-world internal security assessments.
-
-### Assessment Workflow
-
-- Reconnaissance
-- Enumeration
-- Vulnerability Assessment
-- Exploitation
-- Documentation
-- Remediation Recommendations
-
-### Lab Targets
-
-- Metasploitable
-- Windows XP
-- Windows 7
-
-### Tools
+- Reconnaissance and host discovery
+- Port and service enumeration
+- Vulnerability assessment
+- Controlled exploitation
+- Documentation and remediation
 
 `Kali Linux` `Metasploit` `Nmap` `Hydra`
 
-🔗 **Repository**
+[↗ View repository](https://github.com/MohammedAbusafieh/PenTesting-Lab)
 
-https://github.com/MohammedAbusafieh/PenTesting-Lab
+</td>
+<td width="50%" valign="top">
 
----
+### 06 / Enterprise Wireless Network Security
+**Cisco Enterprise Wireless Infrastructure**
 
-# 📡 Enterprise Wireless Network Security
+A multi-floor enterprise wireless network design built in Cisco Packet Tracer.
 
-> **Cisco Enterprise Wireless Infrastructure**
-
-Designed and configured a secure multi-floor enterprise wireless infrastructure using Cisco Packet Tracer.
-
-### Implemented
-
-- WPA2-AES Wireless Security
+- WPA2-AES wireless security
 - Wireless LAN Controller (WLC)
-- RADIUS / AAA Authentication
-- DHCP Services
-- IoT Integration
-- RFID Authentication
-- Enterprise Wireless Segmentation
+- RADIUS / AAA authentication
+- DHCP services and segmentation
+- IoT and RFID integration
 
-### Technologies
+`Cisco Packet Tracer` `WLC` `RADIUS` `DHCP`
 
-`Cisco Packet Tracer` `WLC` `RADIUS` `DHCP` `WPA2-AES`
+[↗ View repository](https://github.com/MohammedAbusafieh/Enterprise-Wireless-Network-Security)
 
-🔗 **Repository**
-
-https://github.com/MohammedAbusafieh/Enterprise-Wireless-Network-Security
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏆 Certifications
+<img src="assets/stack-heading.svg" width="100%" alt="03 — Technical Stack"/>
 
-<p align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/AWS_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+**01 / Security**
 
-<img src="https://img.shields.io/badge/AWS_Technical_Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+- Vulnerability Assessment
+- Penetration Testing Fundamentals
+- Web Application Security
+- Malware Analysis
+- Threat Intelligence Basics
 
-<img src="https://img.shields.io/badge/Cisco_Network_Defense-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</td>
+<td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/Introduction_to_Cybersecurity-005073?style=for-the-badge"/>
+**02 / Network**
 
-<img src="https://img.shields.io/badge/Network_Mastery_for_Ethical_Hackers-A435F0?style=for-the-badge"/>
+- TCP/IP Fundamentals
+- Network Scanning
+- Service Enumeration
+- Wireless Security
+- WPA2-AES • RADIUS / AAA
+- DHCP • Cisco Packet Tracer
 
-</p>
+</td>
+<td width="33%" valign="top">
+
+**03 / Tools & Code**
+
+- Kali Linux • Linux
+- Nmap • Wireshark
+- Metasploit • Burp Suite
+- Nikto • YARA
+- Python • Java • SQL
+- Streamlit • SQLite
+
+</td>
+</tr>
+</table>
 
 ---
-## 📈 GitHub Activity
+
+<img src="assets/experience-heading.svg" width="100%" alt="04 — Practical Experience"/>
+
+### IT Support Intern
+**Al Qaro Roads Contracting L.L.C.** · June–September 2026
+
+- Supported day-to-day IT operations and troubleshooting across office and customer-site environments.
+- Gained practical exposure to CCTV, access control, structured cabling, and security-system deployment.
+- Worked around networking, VPN, NAS storage, and cloud technology environments.
+
+---
+
+<img src="assets/learning-heading.svg" width="100%" alt="05 — Learning & Development"/>
+
+**Selected courses and training**
+
+- AWS Academy Graduate — Cloud Foundations
+- AWS Cloud Technical Essentials
+- Introduction to Cybersecurity
+- Network Defense for Ethical Hackers
+- Network Mastery for Ethical Hackers
+- Java Foundations
+
+*These are training/course completions, not claims of professional certification. Credential links can be added when available.*
+
+---
+
+<img src="assets/activity-heading.svg" width="100%" alt="06 — GitHub Activity"/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MohammedAbusafieh&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAbusafieh&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedAbusafieh&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&rank_icon=github" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbusafieh&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" height="165" alt="Most used languages"/>
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+<img src="assets/contact-heading.svg" width="100%" alt="07 — Contact"/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedAbusafieh/MohammedAbusafieh/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/MohammedAbusafieh/MohammedAbusafieh/output/github-contribution-grid-snake.svg">
-</picture>
+**Let's connect and build something secure.**
 
-</div>
+<a href="https://mohammedkhalidportfolio.netlify.app/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-C77B9B?style=for-the-badge&logo=firefox&logoColor=10070C" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mohammed-khalid-abusafieh-06243b284/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn"/></a>
 
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/MohammedAbusafieh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/mohammed-khalid-jamal-06243b284">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mohammed.abusafieh2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://mohammedkhalidportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-7C5CFC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Building practical cybersecurity solutions through offensive security, malware analysis, and secure software development."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6C63FF,50:4F46E5,100:312E81"/>
+<img src="assets/footer.svg" width="100%" alt="Build. Test. Secure."/>
 
 </div>
