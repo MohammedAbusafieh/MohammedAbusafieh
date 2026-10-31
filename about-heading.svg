@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="105" viewBox="0 0 1200 105" role="img" aria-label="01 About">
-<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#701A3D"/><stop offset=".55" stop-color="#C77B9B"/><stop offset="1" stop-color="#451126"/></linearGradient></defs>
-<rect width="1200" height="105" rx="12" fill="#10070C"/>
-<text x="28" y="39" fill="#C77B9B" font-family="monospace" font-size="17" letter-spacing="4">01 / PROFILE</text>
-<text x="28" y="82" fill="#F8F0F3" font-family="Georgia,serif" font-size="39" font-weight="bold">About</text>
-<path d="M28 94H1170" stroke="url(#g)" stroke-width="3"/>
-<circle cx="1170" cy="94" r="4" fill="#E5B5C7"/>
-</svg>
