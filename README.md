@@ -1,72 +1,73 @@
 <div align="center">
 
-<img src="./assets/hero.png" alt="Mohammed Khalid Abusafieh — Networking and Cybersecurity" width="100%"/>
+<img src="assets/hero.svg" alt="Mohammed Khalid Abusafieh — IT Networking and Security" width="100%">
 
-<a href="https://github.com/MohammedAbusafieh">GitHub</a> &nbsp; · &nbsp; <a href="https://ae.linkedin.com/in/mohammed-khalid-abusafieh-06243b284">LinkedIn</a> &nbsp; · &nbsp; <a href="https://mohammedkhalidportfolio.netlify.app/">Portfolio</a> &nbsp; · &nbsp; <a href="mailto:mohammed.abusafieh2004@gmail.com">Email</a>
-
-</div>
-
----
-
-## ABOUT
-
-<img src="./assets/about-panel.png" width="100%" alt="Technical focus areas"/>
-
-I am an **Information Technology student specializing in Networking & Security at Ajman University**. I enjoy building practical labs and Python tools across network discovery, malware analysis, and web application security.
-
-- **Education:** BSc Information Technology, Ajman University — expected February 2027
-- **Experience:** IT Support Intern, Al Qaro Roads Contracting L.L.C. — June to September 2026
-- **Interests:** Network security, infrastructure, vulnerability assessment, and security automation
-
----
-
-## SELECTED PROJECTS
-
-<a href="https://github.com/MohammedAbusafieh/MalwareX"><img src="./assets/project-malwarex.png" width="100%" alt="MalwareX project card"/></a>
-A Python and Streamlit malware-analysis platform with YARA scanning, VirusTotal lookups, PE analysis, SHA-256 hashing, IOC extraction, and risk assessment.
-
-<a href="https://github.com/MohammedAbusafieh/NetGuard-Pro"><img src="./assets/project-netguard.png" width="100%" alt="NetGuard Pro project card"/></a>
-A network discovery and assessment tool using Nmap for port scanning, service enumeration, topology visualization, risk classification, scan history, and PDF reporting.
-
-<a href="https://github.com/MohammedAbusafieh/DVWA-PenTesting-Lab"><img src="./assets/project-dvwa.png" width="100%" alt="DVWA penetration testing project card"/></a>
-A controlled web-security lab exploring SQL injection, XSS, command injection, LFI, file-upload weaknesses, and access-control issues.
-
-<a href="https://github.com/MohammedAbusafieh/PenTesting-Lab"><img src="./assets/project-pentest.png" width="100%" alt="Network and system penetration testing project card"/></a>
-A controlled lab covering reconnaissance, enumeration, vulnerability assessment, exploitation, documentation, and remediation.
-
-<a href="https://github.com/MohammedAbusafieh/Enterprise-Wireless-Network-Security"><img src="./assets/project-wireless.png" width="100%" alt="Enterprise wireless security project card"/></a>
-A Cisco Packet Tracer enterprise WLAN design using WPA2-AES, a wireless LAN controller, RADIUS/AAA authentication, DHCP, and network segmentation.
-
----
-
-## TECHNICAL TOOLKIT
-
-<img src="./assets/technical-toolkit.png" width="100%" alt="Technical toolkit: networking, security, development and cloud"/>
-
----
-
-## TRAINING & COURSEWORK
-
-<img src="./assets/learning-cards.png" width="100%" alt="Training and coursework"/>
-
-*Training and coursework completions are listed as learning experience, not represented as professional certifications unless the credential explicitly says so.*
-
----
-
-## GITHUB CONTRIBUTIONS
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MohammedAbusafieh/MohammedAbusafieh/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8F4D6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohammedkhalidportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-6F405A?style=for-the-badge&logo=linkedin&logoColor=white)](https://ae.linkedin.com/in/mohammed-khalid-abusafieh-06243b284)
+[![GitHub](https://img.shields.io/badge/GITHUB-33212D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAbusafieh)
+[![Email](https://img.shields.io/badge/EMAIL-AE6B87?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.abusafieh2004@gmail.com)
 
 </div>
 
----
+<br>
+<img src="assets/section-about.svg" alt="A little about me" width="100%">
+<img src="assets/about-panel.svg" alt="Information Technology student at Ajman University, focused on networking and security" width="100%">
 
 <div align="center">
 
-<a href="mailto:mohammed.abusafieh2004@gmail.com">Email</a> &nbsp; · &nbsp; <a href="https://ae.linkedin.com/in/mohammed-khalid-abusafieh-06243b284">LinkedIn</a> &nbsp; · &nbsp; <a href="https://mohammedkhalidportfolio.netlify.app/">Portfolio</a>
+**Currently:** IT Support Intern · **Al Qaro Roads Contracting L.L.C.**  
+**Studying:** BSc Information Technology — Networking & Security, Ajman University  
+**Expected graduation:** February 2027 · **Based in:** UAE
 
-<img src="./assets/footer.png" width="100%" alt="Build with curiosity. Secure with purpose."/>
+</div>
 
+<br>
+<img src="assets/section-work.svg" alt="Selected work" width="100%">
+
+<div align="center">
+<a href="https://github.com/MohammedAbusafieh/MalwareX"><img src="assets/01-malwarex.svg" alt="MalwareX — Python malware analysis dashboard using YARA and VirusTotal" width="100%"></a>
+<a href="https://github.com/MohammedAbusafieh/NetGuard-Pro"><img src="assets/02-netguard-pro.svg" alt="NetGuard Pro — network discovery and risk assessment" width="100%"></a>
+<a href="https://github.com/MohammedAbusafieh/DVWA-PenTesting-Lab"><img src="assets/03-dvwa-lab.svg" alt="DVWA PenTesting Lab — practical web application security testing" width="100%"></a>
+<a href="https://github.com/MohammedAbusafieh/Enterprise-Wireless-Network-Security"><img src="assets/04-wireless.svg" alt="Enterprise Wireless Security — WPA2-AES, WLC and RADIUS design" width="100%"></a>
+</div>
+
+**More hands-on work:** [Network & System PenTesting Lab](https://github.com/MohammedAbusafieh/PenTesting-Lab) · [Website Security Scanner](https://github.com/MohammedAbusafieh/Website-Security-Scanner)
+
+<br>
+<img src="assets/section-toolkit.svg" alt="Technical toolkit" width="100%">
+<img src="assets/toolkit.svg" alt="Networking, security, development and platform skills" width="100%">
+
+<br>
+<img src="assets/section-journey.svg" alt="Experience and learning" width="100%">
+
+### Experience
+**IT Support Intern — Al Qaro Roads Contracting L.L.C.**  
+June – September 2026
+
+- Supported IT operations across office and customer-site environments.
+- Gained practical exposure to CCTV, access control, structured cabling and security-system deployment.
+- Worked around networking, VPN, NAS storage and general IT support tasks.
+
+### Education
+**Ajman University** — Information Technology, Networking & Security  
+Expected graduation: February 2027
+
+### Training & coursework
+- AWS Academy Graduate — Cloud Foundations
+- AWS Cloud Technical Essentials
+- Cisco Network Defense
+- Introduction to Cybersecurity
+- Network Mastery for Ethical Hackers
+
+<br>
+<img src="assets/section-connect.svg" alt="Let's connect" width="100%">
+<div align="center">
+
+I’m interested in entry-level opportunities across **IT support, networking and cybersecurity**.
+
+[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-8F4D6B?style=for-the-badge)](https://mohammedkhalidportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-6F405A?style=for-the-badge&logo=linkedin&logoColor=white)](https://ae.linkedin.com/in/mohammed-khalid-abusafieh-06243b284)
+[![Email](https://img.shields.io/badge/Send_an_Email-AE6B87?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.abusafieh2004@gmail.com)
+
+<img src="assets/footer.svg" alt="Thanks for stopping by — build with purpose, learn continuously, secure by design" width="100%">
 </div>
