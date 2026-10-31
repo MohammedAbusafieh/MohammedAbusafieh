@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="145" viewBox="0 0 1200 145" role="img" aria-label="Build. Test. Secure.">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#451126"/><stop offset=".5" stop-color="#E5B5C7"/><stop offset="1" stop-color="#451126"/></linearGradient></defs>
+<rect width="1200" height="145" rx="16" fill="#10070C"/>
+<path d="M35 28H1165" stroke="url(#g)" stroke-width="2" stroke-dasharray="450 750">
+<animate attributeName="stroke-dashoffset" values="0;-1200" dur="9s" repeatCount="indefinite"/>
+</path>
+<text x="600" y="88" text-anchor="middle" fill="#F8F0F3" font-family="Arial,Helvetica,sans-serif" font-size="30" letter-spacing="9">BUILD. TEST. SECURE.</text>
+<text x="600" y="119" text-anchor="middle" fill="#C77B9B" font-family="monospace" font-size="12" letter-spacing="4">MOHAMMED KHALID ABUSAFIEH</text>
+</svg>
