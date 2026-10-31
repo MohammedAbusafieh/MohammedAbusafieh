@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="NetGuard Pro: Discover hosts, inspect services and assess network risk">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2a1725"/><stop offset="1" stop-color="#412338"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="248" rx="20" fill="url(#bg)" stroke="#75445f"/><path d="M720 0H1000V250H820Z" fill="#6c3655" opacity=".23"/>
+<g fill="none" stroke="#d99ab2"><circle cx="885" cy="125" r="75" opacity=".55"/><circle cx="885" cy="125" r="52" opacity=".35"/><circle cx="885" cy="125" r="28" opacity=".55"/><path d="M810 125H960M885 50V200M832 72L938 178M938 72L832 178" opacity=".35"/></g><circle cx="885" cy="125" r="7" fill="#d99ab2"/>
+<text x="42" y="42" fill="#d99ab2" font-family="monospace" font-size="14" letter-spacing="3">02 / NETWORK ASSESSMENT</text>
+<text x="42" y="100" fill="#fff2f0" font-family="Georgia,serif" font-size="42">NetGuard Pro</text><text x="42" y="139" fill="#d7bdc9" font-family="Arial,sans-serif" font-size="19">Discover hosts, inspect services and assess network risk</text>
+<rect x="42" y="177" width="650" height="36" rx="9" fill="#1c111a" stroke="#71435c"/><text x="60" y="201" fill="#f1cbd8" font-family="monospace" font-size="15">Python · Nmap · SQLite · NetworkX · ReportLab</text>
+<text x="950" y="224" text-anchor="end" fill="#d7a3b8" font-family="monospace" font-size="12">SECURITY / ENGINEERING</text></svg>
