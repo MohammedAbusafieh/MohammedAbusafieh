@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="255" viewBox="0 0 1000 255" role="img" aria-label="Education and internship timeline">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#21131D"/><stop offset="1" stop-color="#392235"/></linearGradient>
+ <linearGradient id="rose" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D99AB2"/><stop offset="1" stop-color="#A85F7D"/></linearGradient>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#D99AB2" opacity=".20"/></pattern>
+</defs>
+<rect width="1000" height="255" rx="20" fill="url(#bg)" stroke="#70445B"/>
+<text x="38" y="42" fill="#D99AB2" font-family="monospace" font-size="12" letter-spacing="2">CURRENT CHAPTERS</text>
+<path d="M95 105H900" stroke="#70445B" stroke-width="3"/>
+<circle cx="110" cy="105" r="10" fill="#D99AB2" stroke="#21131D" stroke-width="4"/>
+<text x="110" y="83" text-anchor="middle" fill="#D99AB2" font-family="monospace" font-size="16">2022</text>
+<text x="110" y="145" text-anchor="middle" fill="#D99AB2" font-family="monospace" font-size="10">UNIVERSITY</text>
+<text x="110" y="177" text-anchor="middle" fill="#F6E9EC" font-family="Georgia,serif" font-size="19">Ajman University</text>
+<text x="110" y="205" text-anchor="middle" fill="#CBB7C2" font-family="Arial,sans-serif" font-size="12">IT · Networking &amp; Security</text><circle cx="500" cy="105" r="10" fill="#D99AB2" stroke="#21131D" stroke-width="4"/>
+<text x="500" y="83" text-anchor="middle" fill="#D99AB2" font-family="monospace" font-size="16">2026</text>
+<text x="500" y="145" text-anchor="middle" fill="#D99AB2" font-family="monospace" font-size="10">FIELD EXPERIENCE</text>
+<text x="500" y="177" text-anchor="middle" fill="#F6E9EC" font-family="Georgia,serif" font-size="19">IT Support Intern</text>
+<text x="500" y="205" text-anchor="middle" fill="#CBB7C2" font-family="Arial,sans-serif" font-size="12">Al Qaro Roads Contracting L.L.C.</text><circle cx="885" cy="105" r="10" fill="#D99AB2" stroke="#21131D" stroke-width="4"/>
+<text x="885" y="83" text-anchor="middle" fill="#D99AB2" font-family="monospace" font-size="16">2027</text>
+<text x="885" y="145" text-anchor="middle" fill="#D99AB2" font-family="monospace" font-size="10">NEXT MILESTONE</text>
+<text x="885" y="177" text-anchor="middle" fill="#F6E9EC" font-family="Georgia,serif" font-size="19">Expected Graduation</text>
+<text x="885" y="205" text-anchor="middle" fill="#CBB7C2" font-family="Arial,sans-serif" font-size="12">February 2027</text><text x="38" y="238" fill="#CBB7C2" font-family="monospace" font-size="10">INTERNSHIP PERIOD: JUNE — SEPTEMBER 2026</text></svg>

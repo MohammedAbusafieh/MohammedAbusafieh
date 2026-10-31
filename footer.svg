@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="125" viewBox="0 0 1000 125" role="img" aria-label="Thanks for stopping by">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#21131D"/><stop offset="1" stop-color="#392235"/></linearGradient>
+ <linearGradient id="rose" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D99AB2"/><stop offset="1" stop-color="#A85F7D"/></linearGradient>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#D99AB2" opacity=".20"/></pattern>
+</defs>
+<rect width="1000" height="125" rx="18" fill="url(#bg)" stroke="#70445B"/>
+<path d="M30 88C210 10 360 125 530 57S820 20 970 70" fill="none" stroke="#A85F7D" stroke-width="1.5"/>
+<text x="42" y="50" fill="#F6E9EC" font-family="Georgia,serif" font-size="30">Thanks for stopping by.</text>
+<text x="44" y="82" fill="#D99AB2" font-family="monospace" font-size="12" letter-spacing="2">BUILD WITH PURPOSE · LEARN CONTINUOUSLY · SECURE BY DESIGN</text>
+<text x="955" y="55" text-anchor="end" fill="#D99AB2" font-family="Georgia,serif" font-size="20">MK.</text></svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Mohammed Khalid Abusafieh — IT Networking and Security Student">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#21131D"/><stop offset="1" stop-color="#392235"/></linearGradient>
+ <linearGradient id="rose" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D99AB2"/><stop offset="1" stop-color="#A85F7D"/></linearGradient>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#D99AB2" opacity=".20"/></pattern>
+</defs>
+<rect width="1200" height="430" rx="26" fill="url(#bg)" stroke="#70445B"/>
+<rect width="1200" height="430" rx="26" fill="url(#dots)" opacity=".55"/>
+<circle cx="965" cy="210" r="190" fill="#A85F7D" opacity=".08"/>
+<g fill="none" stroke="#D99AB2" opacity=".55">
+ <circle cx="965" cy="210" r="150" stroke-width="1.5"/><circle cx="965" cy="210" r="112"/>
+ <circle cx="965" cy="210" r="72"/><path d="M815 210h300M965 60v300M859 104l212 212M1071 104L859 316"/>
+</g>
+<g fill="#D99AB2"><circle cx="965" cy="60" r="5"/><circle cx="1115" cy="210" r="5"/><circle cx="965" cy="360" r="5"/><circle cx="815" cy="210" r="5"/></g>
+<path d="M965 138l47 18v44c0 35-20 58-47 73-27-15-47-38-47-73v-44z" fill="none" stroke="url(#rose)" stroke-width="3"/>
+<path d="M944 203l14 14 29-34" fill="none" stroke="#F6E9EC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="62" y="68" fill="#D99AB2" font-family="monospace" font-size="14" letter-spacing="4">NETWORKING / SECURITY / ENGINEERING</text>
+<text x="58" y="158" fill="#F6E9EC" font-family="Georgia,serif" font-size="64">Mohammed Khalid</text>
+<text x="58" y="224" fill="#F6E9EC" font-family="Georgia,serif" font-size="64">Abusafieh</text>
+<path d="M62 250h520" stroke="#A85F7D" stroke-width="2"/>
+<text x="62" y="298" fill="#F6E9EC" font-family="Arial,sans-serif" font-size="25">IT Networking &amp; Security Student</text>
+<text x="62" y="338" fill="#CBB7C2" font-family="Arial,sans-serif" font-size="18">Building practical tools across network defense,</text>
+<text x="62" y="366" fill="#CBB7C2" font-family="Arial,sans-serif" font-size="18">malware analysis and security assessment.</text>
+<text x="62" y="405" fill="#D99AB2" font-family="monospace" font-size="12" letter-spacing="2">AJMAN UNIVERSITY · EXPECTED GRADUATION 2027</text>
+</svg>
