@@ -28,12 +28,7 @@
 <img src="assets/project-malwarex.svg?v=cv20261101-final" width="100%" alt="MalwareX — Malware Analysis and Threat Detection Platform">
 <p align="center"><a href="https://github.com/MohammedAbusafieh/MalwareX"><img src="https://img.shields.io/badge/Repository-MalwareX-451126?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="MalwareX repository"></a></p>
 
-**MalwareX — Malware Analysis & Threat Detection Platform**
-- Automated static file analysis, including SHA-256 hashing, file metadata inspection, PE analysis and suspicious DLL/API detection.
-- Implemented string analysis, IOC extraction, YARA scanning and entropy analysis.
-- Integrated the VirusTotal API for hash reputation checks and multi-engine malware detection results.
-- Added automated risk scoring, severity classification, security verdicts, scan history and detailed reports, with an interactive Streamlit dashboard.
-- **CV-reported outcome:** accelerated threat detection by 15% compared with manual methods.
+
 
 <img src="assets/project-netguard-pro.svg?v=cv20261101-final" width="100%" alt="NetGuard Pro — Network Security Scanner and Risk Assessment Platform">
 <p align="center"><a href="https://github.com/MohammedAbusafieh/NetGuard-Pro"><img src="https://img.shields.io/badge/Repository-NetGuard_Pro-451126?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="NetGuard Pro repository"></a></p>
