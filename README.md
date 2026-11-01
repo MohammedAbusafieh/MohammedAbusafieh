@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://mohammedkhalidportfolio.netlify.app/"><img width="100%" src="./assets/hero.gif" alt="Mohammed Khalid Abusafieh — Cybersecurity and Networking"></a>
+<a href="https://mohammedkhalidportfolio.netlify.app/"><img width="100%" src="./hero.gif" alt="Mohammed Khalid Abusafieh — Cybersecurity and Networking"></a>
 
 <a href="https://github.com/MohammedAbusafieh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://linkedin.com/in/mohammed-khalid-jamal-06243b284"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -13,7 +13,7 @@
 
 ---
 
-<img src="./assets/about.gif" width="100%" alt="Animated About Me section banner">
+<img src="./about.gif" width="100%" alt="Animated About Me section banner">
 
 Networking & Cybersecurity professional-in-training with hands-on experience in penetration testing, vulnerability assessment, malware analysis, and network security. I enjoy building practical cybersecurity tools, conducting penetration tests, analyzing vulnerabilities and threats, and automating security workflows with Python.
 
@@ -27,7 +27,7 @@ My projects include **MalwareX**, a malware analysis and threat detection platfo
 
 ---
 
-<img src="./assets/stack.gif" width="100%" alt="Animated Tech Stack banner">
+<img src="./stack.gif" width="100%" alt="Animated Tech Stack banner">
 
 ### Languages
 <p>
@@ -39,7 +39,7 @@ My projects include **MalwareX**, a malware analysis and threat detection platfo
   <img src="https://skillicons.dev/icons?i=linux,aws,git,github,vscode" alt="Linux, AWS, Git, GitHub and VS Code">
 </p>
 
-<img src="./assets/tools.gif" width="100%" alt="Animated Security Tools banner">
+<img src="./tools.gif" width="100%" alt="Animated Security Tools banner">
 
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
@@ -54,7 +54,7 @@ My projects include **MalwareX**, a malware analysis and threat detection platfo
 
 ---
 
-<img src="./assets/projects.gif" width="100%" alt="Animated Featured Projects banner">
+<img src="./projects.gif" width="100%" alt="Animated Featured Projects banner">
 
 | Project | Description | Tech |
 |:--|:--|:--|
@@ -67,7 +67,7 @@ My projects include **MalwareX**, a malware analysis and threat detection platfo
 ---
 
 ### 🦠 MalwareX
-<img src="./assets/malwarex.gif" width="100%" alt="Animated MalwareX project banner">
+<img src="./malwarex.gif" width="100%" alt="Animated MalwareX project banner">
 
 > **Malware Analysis & Threat Detection Platform**
 
@@ -91,7 +91,7 @@ Built to automate malware analysis using static analysis techniques and threat i
 ---
 
 ### 🌐 NetGuard Pro
-<img src="./assets/netguard.gif" width="100%" alt="Animated NetGuard Pro project banner">
+<img src="./netguard.gif" width="100%" alt="Animated NetGuard Pro project banner">
 
 > **Network Security Scanner & Risk Assessment Platform**
 
@@ -113,7 +113,7 @@ Designed to discover devices, identify exposed services, and assess network secu
 ---
 
 ### 🌍 Web Application Penetration Testing Lab (DVWA)
-<img src="./assets/dvwa.gif" width="100%" alt="Animated DVWA project banner">
+<img src="./dvwa.gif" width="100%" alt="Animated DVWA project banner">
 
 > **OWASP Top 10 Web Application Security Assessment**
 
@@ -136,7 +136,7 @@ Performed a web application penetration test against DVWA following a structured
 ---
 
 ### 🔐 Network & System Penetration Testing Lab
-<img src="./assets/pentest.gif" width="100%" alt="Animated Network & System PenTesting banner">
+<img src="./pentest.gif" width="100%" alt="Animated Network & System PenTesting banner">
 
 > **Enterprise Penetration Testing Lab**
 
@@ -159,7 +159,7 @@ Hands-on penetration testing against intentionally vulnerable virtual machines t
 ---
 
 ### 📡 Enterprise Wireless Network Security
-<img src="./assets/wireless.gif" width="100%" alt="Animated Enterprise Wireless Network Security banner">
+<img src="./wireless.gif" width="100%" alt="Animated Enterprise Wireless Network Security banner">
 
 > **Cisco Enterprise Wireless Infrastructure**
 
@@ -181,7 +181,7 @@ Designed and configured a secure multi-floor enterprise wireless infrastructure 
 ---
 
 ### 🔎 Website Security Scanner
-<img src="./assets/scanner.gif" width="100%" alt="Animated Website Security Scanner banner">
+<img src="./scanner.gif" width="100%" alt="Animated Website Security Scanner banner">
 
 Automated website security analysis covering SSL/TLS, HTTP headers, port scanning, vulnerability checks, and HTML report generation.
 
@@ -189,7 +189,7 @@ Automated website security analysis covering SSL/TLS, HTTP headers, port scannin
 
 ---
 
-<img src="./assets/certs.gif" width="100%" alt="Animated Certifications and Training banner">
+<img src="./certs.gif" width="100%" alt="Animated Certifications and Training banner">
 
 - AWS Cloud Foundations
 - AWS Technical Essentials
@@ -199,7 +199,7 @@ Automated website security analysis covering SSL/TLS, HTTP headers, port scannin
 
 ---
 
-<img src="./assets/activity.gif" width="100%" alt="Animated GitHub Activity banner">
+<img src="./activity.gif" width="100%" alt="Animated GitHub Activity banner">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MohammedAbusafieh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
@@ -207,7 +207,7 @@ Automated website security analysis covering SSL/TLS, HTTP headers, port scannin
 
 ---
 
-<img src="./assets/activity-grid.gif" width="100%" alt="Animated contribution activity graphic">
+<img src="./activity-grid.gif" width="100%" alt="Animated contribution activity graphic">
 
 ### 🐍 Contribution Snake
 
@@ -220,7 +220,7 @@ Automated website security analysis covering SSL/TLS, HTTP headers, port scannin
 
 ---
 
-<img src="./assets/connect.gif" width="100%" alt="Animated Connect With Me banner">
+<img src="./connect.gif" width="100%" alt="Animated Connect With Me banner">
 
 <div align="center">
   <a href="https://github.com/MohammedAbusafieh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -235,6 +235,6 @@ Automated website security analysis covering SSL/TLS, HTTP headers, port scannin
 
 *"Building practical cybersecurity solutions through offensive security, malware analysis, and secure software development."*
 
-<img src="./assets/footer.gif" width="100%" alt="Animated purple and blue footer">
+<img src="./footer.gif" width="100%" alt="Animated purple and blue footer">
 
 </div>
