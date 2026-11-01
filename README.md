@@ -7,7 +7,6 @@
   <a href="tel:+971555773356"><img src="https://img.shields.io/badge/Phone-%2B971_55_577_3356-701A3D?style=for-the-badge&labelColor=190B12&logo=phone&logoColor=F8F0F3" alt="Phone"></a>
 </p>
 
-<p align="center"><strong>Dubai, UAE</strong> · <a href="tel:+971555773356">+971 55 577 3356</a> · <a href="mailto:mohammed.abusafieh2004@gmail.com">mohammed.abusafieh2004@gmail.com</a></p>
 
 <img src="assets/title-about.svg?v=cv20261101-final" width="100%" alt="01 About — Hello, I'm Mohammed">
 <img src="assets/about-intro.svg?v=cv20261101-final" width="100%" alt="Professional summary: Networking and Cybersecurity graduate with hands-on IT support, networking, penetration testing, vulnerability assessment, network security and malware analysis experience">
